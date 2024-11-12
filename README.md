@@ -1,0 +1,2 @@
+# CLassPulse-AI-ML-Driven-Advanced-Class-Monitoring-System-with-Computer-Vision-and-3D-NeRF-Modeling
+**AI-Driven Class Monitoring System with 3D NeRF Modeling**  This system combines AI, ML, and computer vision with 3D Neural Radiance Fields (NeRF) to monitor classrooms in real-time. It automates attendance via facial recognition, tracks student engagement through behavior analysis, and provides 3D spatial visualization of classroom dynamics. 
